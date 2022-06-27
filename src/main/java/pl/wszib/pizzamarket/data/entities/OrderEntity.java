@@ -38,4 +38,6 @@ public class OrderEntity {
     public void setOrderAddress(OrderAddressEntity orderAddress) {
         this.orderAddress = orderAddress;
     }
+
+
 }
