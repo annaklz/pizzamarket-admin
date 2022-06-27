@@ -39,5 +39,4 @@ public class OrderEntity {
         this.orderAddress = orderAddress;
     }
 
-
 }
