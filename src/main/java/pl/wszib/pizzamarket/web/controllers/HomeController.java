@@ -9,7 +9,6 @@ public class HomeController {
 
     @GetMapping
     public String showHomePage(Model model) {
-        model.addAttribute("name", "Jan");
         return "homePage";
     }
 }
